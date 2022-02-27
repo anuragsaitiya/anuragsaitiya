@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuragsaitiya
+- 👋 Hi, I’m Anurag Sharma
 - 🌱 I’m currently learning DSA and algo using JAVA
 - 💞️ I’m looking to collaborate on open source projects..
 - 📫 https://www.linkedin.com/in/anurag-sharma98/
